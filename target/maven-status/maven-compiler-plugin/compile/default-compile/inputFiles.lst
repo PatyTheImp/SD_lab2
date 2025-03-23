@@ -1,0 +1,13 @@
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/Discovery.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/api/User.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/api/service/RestUsers.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/CreateUserClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/DeleteUserAvatarClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/DeleteUserClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/GetUserAvatarClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/GetUserClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/SearchUserClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/UpdateUserAvatarClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/clients/UpdateUserClient.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/server/UsersServer.java
+/home/vboxuser/Downloads/práticas/lab02/lab2/src/lab2/server/resources/UsersResource.java
